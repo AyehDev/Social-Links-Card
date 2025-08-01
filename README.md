@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://vercel.com/ayehdevs-projects/social-links-card)
+- Live Site URL: (https://social-links-card-iota.vercel.app)
 
 
 ### Built with
