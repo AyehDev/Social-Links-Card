@@ -9,8 +9,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
 - [Author](#author)
 
 
@@ -26,13 +24,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./assets/images/Screenshot%202025-07-31%20220730.png)
 
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: ()
 
 
 ### Built with
@@ -40,30 +38,8 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-
-
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-
-
-
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-### Continued development
-
-
-
+- hosting
+  -vercel
 
 
 ## Author
